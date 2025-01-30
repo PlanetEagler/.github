@@ -1,3 +1,4 @@
-## Hi there 👋
+## Welcome to PlanetEagler!
 
-ahhhh so this is how you do it
+PE (PlanetEagler) is a place where you can share mods (eaglerforge), libraries (code snippets), and worlds! ( worlds coming soon???)
+
